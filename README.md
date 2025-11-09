@@ -3,7 +3,7 @@ This repos is created by Ashutosh Thanvi to upload all the relevent files associ
 
 Discussion and Explanation of the results.
 
-The relative deflections of the blades and deflections of the tower are calculated after solving the dynamic mass spring damper system equations for different TI and mean speed time series. 
+The relative deflections of the blades and deflections of the tower(with hub and nacelle combined) are calculated after solving the dynamic mass spring damper system equations for different TI and mean speed time series. 
 
 Blade vs Tower displacements
 1. It is observed that deflections for the blades are found to be higher for blades than for tower.
