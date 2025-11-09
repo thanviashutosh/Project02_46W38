@@ -10,7 +10,7 @@ Blade vs Tower displacements
 2. This is to due to the higher stiffness of the hub-tower-nacelle system as compared to that of the blades which is relatively softer.
 
 Effect of Wind speed 
-1. The displacements increases witht the wind speed and peaks at around 12m/s. This is due to excitation force being close the natural frequency of the structure.
+1. The displacements increases witht the wind speed and peaks at around 12m/s due to resonance effect. This is due to excitation force being close the natural frequency of the structure.
 2. The displacment descreases with higher wind speeds due to increase in damping.
 
 Effect of TI
