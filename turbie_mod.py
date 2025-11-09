@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
 
 # -*- coding: utf-8 -*-
-"""
-Turbie Module
-Contains functions to simulate a 2-DOF wind turbine system
-"""
+###########################
+#------Turbie Module-------
+# Contains functions to simulate a 2-DOF wind turbine system
+#############################
+
 import numpy as np
 import pandas as pd
 from scipy.interpolate import interp1d
