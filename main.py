@@ -1,10 +1,15 @@
 # -*- coding: utf-8 -*-
-"""
-Main script for running the dynamic system simulation. 
-A total of 3 X 22 simulations i.e. 3 TI values (0.05, 0.10 and 0.15) and for
-each TI value 22 wind time series for a mean speed of 4m/s to 25m/s
+##############################################################################
+# Main script for running the dynamic system simulation. 
+# A total of 3 X 22 simulations i.e. 3 TI values (0.05, 0.10 and 0.15) and for
+# each TI value 22 wind time series for a mean speed of 4m/s to 25m/s.
+#
+# The turbie_mod module needs to be imported which has all the useful functions
+# required for running the dynamic simulations.
+#
+# Please check your paths for files/folders for wind data , Ct file and turbie input
+# and update if required. 
 
-"""
 
 import os
 import pandas as pd
