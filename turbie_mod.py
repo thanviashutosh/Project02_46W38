@@ -68,7 +68,7 @@ def load_wind_data(root_dir):
     return wind_data
 
 # *****************************************
-# Ct loader and Ct value for each simulation
+# Ct loader and Ct interpolated value for each simulation
 # *****************************************
 def load_Ct(file_path):
     """
@@ -86,7 +86,7 @@ def get_Ct_for_wind(U_series, Ct_interp):
     return float(Ct_interp(U_mean))
 
 # *****************
-# Dynamic System matrices
+# Dynamic System matrices, M (mass), C (Damping) , K (Stiffness)
 # ****************
 def build_matrices(params):
     """
